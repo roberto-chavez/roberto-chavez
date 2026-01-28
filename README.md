@@ -6,7 +6,8 @@ I like building practical things and learning by doing.
 
 If I don’t fully understand something, chances are I’ll break it down, rebuild it, and document the process.
 
-My main focus right now is **Python**, **Excel**, and **Data analysis**, with a growing interest in **AI and Machine learning**.  
+My main focus right now is **Python**, **Excel**, and **Data analysis**, with a growing interest in **AI and Machine learning**.
+
 I care a lot about clean logic, readable code, and solutions that actually make sense in the real world.
 
 <!--
